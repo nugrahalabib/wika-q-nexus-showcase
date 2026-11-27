@@ -345,3 +345,10 @@ Microsoft 365 provides document storage in SharePoint and vendor letters through
 ---
 
 <sub>Built by [Nugraha Labib Mujaddid](https://github.com/nugrahalabib). This page describes a private codebase; questions about the product or a demo are welcome at [nugrahalabib@gmail.com](mailto:nugrahalabib@gmail.com).</sub>
+
+## Related
+
+- [HC Platform for WIKA EPCC](https://github.com/nugrahalabib/wika-hc-platform-showcase)
+- [DashPro for WIKA EPCC](https://github.com/nugrahalabib/wika-pms-showcase)
+- [Spead AI Pro for WIKA EPCC](https://github.com/nugrahalabib/spead-pro-wika-showcase)
+- [All my work on GitHub](https://github.com/nugrahalabib)
